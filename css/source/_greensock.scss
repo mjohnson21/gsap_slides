@@ -1,0 +1,85 @@
+.reveal h1.main-logo {
+  text-align: left;
+  padding-left: 33%;
+}
+
+
+.reveal {
+    pre {
+        width: 100%;
+        code {
+            padding: .5em 1em 1em 1em;
+        }
+    }
+    p {
+        text-align: left;
+        font-size: 32px;
+    }
+}
+
+
+
+div.demo {
+    position: relative;
+    background-color: #ccc;
+    display: block;
+    padding: .25em;
+    &.perspective {
+        perspective: 800px;
+        // perspective-origin: 90% 0%;
+    }
+}
+.target {
+    position: relative;
+    left: 0;
+    top: 0;
+    height: 100px;
+    width: 100px;
+    color: white;
+    background-image: url(../resources/marly.png);
+    background-size: contain;
+    &.black {
+        background-color: #000;
+    }
+    &.small {
+        height: 40px;
+        margin-bottom: 2px;
+        font-size: .8em;
+    }
+    &.wide {
+        width: 200px;
+    }
+    &.demo6-target {
+        float: left;
+        margin-right: 5px;
+    }
+    &.right {
+      float: right;
+    }
+    &.left {
+      float: left;
+    }
+}
+
+.btn {
+    display: inline-block;
+    border: none;
+    outline: none;
+    background-color: #eb008b;
+    color: white;
+    font-size: .85em;
+    padding: .25em 1em;
+    + .btn {
+        margin-left: .1em;
+    }
+    &:active {
+      background-color: #000;
+      color: white;
+    }
+}
+
+.cf:after {
+  content: "";
+  display: table;
+  clear: both;
+}

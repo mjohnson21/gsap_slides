@@ -1,0 +1,117 @@
+[
+
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "resources/greensock.png"
+        }
+    },
+    "about-mj.html",
+    [
+        {
+          "attr": {
+              "data-background": "resources/huge.jpg"
+          }
+        },
+        {
+
+          "attr": {
+              "data-background": "resources/cafe.jpg"
+            }
+        }
+    ],
+    "about-poll.md",
+    [
+        "about-animate-2.md",
+        "about-animate.md",
+        "about-animation2.md",
+        "about-animate-3.md",
+        {
+            "attr": {
+                "data-background": "resources/coin.png",
+                "data-link": "https://onlycoin.com/"
+            }
+        }
+    ],
+
+    [
+        "about-history.md",
+        {
+            "attr": {
+                "data-background": "resources/flash.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "resources/frog.jpg"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "resources/jquery.png"
+            }
+        }
+    ],
+    [
+        {
+            "filename":"gsap.md",
+            "attr": {
+                "data-background": "resources/greensock.png"
+            }
+        },
+        "gsap-flavors.md"
+    ],
+    [
+        "tweenlite.md",
+        "tweenlite-2.md",
+        "tweenlite-1.md",
+        "tweenlite-3.md",
+        "tweenlite-4.md",
+        "tweenlite-5.md",
+        "tweenlite-6.md",
+        "tweenlite-7.md",
+        "tweenlite-8.md",
+        "tweenlite-9.md",
+        "tweenlite-10.md",
+        "tweenlite-11.md",
+        "tweenlite-12.md",
+        "tweenlite-13.md"
+    ],
+    [
+        "easing.md",
+        "easing-1.md",
+        "easing-2.md",
+        "easing-3.md"
+    ],
+    [
+        "tweenmax.md",
+        "tweenmax-2.md",
+        "tweenmax-3.md",
+        "tweenmax-4.md",
+        "tweenmax-5.md",
+        "tweenmax-6.md",
+        "tweenmax-7.md"
+    ],
+    [
+        "timeline.md",
+        "timeline-1.md",
+        "timeline-2.md",
+        "timeline-3.md",
+        "timeline-4.md",
+        "timeline-5.md",
+        "timeline-6.md",
+        "timeline-7.md",
+        "timeline-8.md",
+        "timeline-9.md"
+    ],
+    [
+      "xtra-scrollmagic.md",
+      "xtra-drawsvg.md",
+      "xtra-bezier.md",
+
+      "xtra-jquery.md",
+      "xtra-angular.md"
+    ],
+    "recap-2.md",
+    "closing.md"
+]
